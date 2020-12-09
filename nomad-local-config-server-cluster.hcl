@@ -12,3 +12,9 @@ advertise {
   rpc  = "127.0.0.1"
   serf = "127.0.0.1"
 }
+
+telemetry {
+  publish_allocation_metrics = true
+  publish_node_metrics       = true
+  prometheus_metrics         = true
+}

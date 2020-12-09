@@ -1,4 +1,4 @@
-data_dir  = "/Users/kabu/hashicorp/nomad/datadir/local-single-data"
+idata_dir  = "/Users/kabu/hashicorp/nomad/datadir/local-single-data"
 
 bind_addr = "127.0.0.1"
 
